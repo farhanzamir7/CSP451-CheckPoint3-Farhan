@@ -71,3 +71,4 @@ Students will:
 4. Confirm the CI, CodeQL, and Dependabot configurations all behave correctly on the PR.
 5. Drive a red-then-green debug cycle and capture it on the PR timeline.
 6. Configure branch protection so the CI checks gate every merge to `main`.
+

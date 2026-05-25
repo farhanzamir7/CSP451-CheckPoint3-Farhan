@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
 
 app.get("/health", (req, res) => {
   res.json({
-    status: "healthy",
+    status:"healthy",
     uptime: process.uptime(),
   });
 });
